@@ -3,7 +3,7 @@
 
 # Local Installation
 
-- run `` git clone 
+- run `` git clone https://github.com/devinaf36/kasirayam.git ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
