@@ -3,7 +3,7 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone 
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
@@ -24,7 +24,7 @@
 ![Triangle POS](public/images/screenshot.jpg)
 **Live Demo:** will update soon
 
-## Triangle POS Features
+## POS Features
 
 - **Products Management & Barcode Printing**
 - **Stock Management**
