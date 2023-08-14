@@ -62,7 +62,7 @@
                                         <label for="status">Status <span class="text-danger">*</span></label>
                                         <select class="form-control" name="status" id="status" required>
                                             <option value="Pending">Pending</option>
-                                            <option value="Sedang Proses">Sedang Proses</option>
+
                                             <option value="Selesai">Selesai</option>
                                         </select>
                                     </div>

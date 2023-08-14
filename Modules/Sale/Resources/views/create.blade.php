@@ -63,7 +63,6 @@
                                         <label for="status">Status <span class="text-danger">*</span></label>
                                         <select class="form-control" name="status" id="status" required>
                                             <option value="Pending">Pending</option>
-                                            <option value="Sedang Proses">Sedang Proses</option>
                                             <option value="Selesai">Selesai</option>
                                         </select>
                                     </div>
@@ -82,7 +81,7 @@
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="form-group">
-                                        <label for="paid_amount">Jumlah yang Dibayar <span class="text-danger">*</span></label>
+                                        <label for="paid_amount">Total yang Dibayar <span class="text-danger">*</span></label>
                                         <div class="input-group">
                                             <input id="paid_amount" type="text" class="form-control" name="paid_amount" required>
                                             <div class="input-group-append">

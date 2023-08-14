@@ -42,7 +42,7 @@
                                     <select wire:model.defer="purchase_return_status" class="form-control" name="purchase_return_status">
                                         <option value="">Pilih Status</option>
                                         <option value="Pending">Pending</option>
-                                        <option value="Sedang Proses">Sedang Proses</option>
+
                                         <option value="Selesai">Selesai</option>
                                     </select>
                                 </div>
